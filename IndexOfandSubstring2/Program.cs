@@ -112,6 +112,24 @@ namespace IndexOfandSubstring2
             Console.WriteLine($"Tamanho entre tags: {tamanhoEntrePalavra}");
             Console.WriteLine($"Mensagem entre tags: {mensagemEntreTags}");
 
+            /*
+             *  Outro exemplo dado pela instrução.
+             *  
+             */
+
+            Console.WriteLine("\n\nOutro exemplo..\n");
+            string message = "What is the value <span>between the tags</span>?";
+            //                012345678901234567890123456789012345678901234567
+            const string openSpan = "<span>";
+            const string closeSpan = "</span>";
+
+            int openingPosition = message.IndexOf(openSpan);
+            int closingPosition = message.IndexOf(closeSpan);
+
+            openingPosition += openSpan.Length;
+            int length = closingPosition - openingPosition;
+            Console.WriteLine(message.Substring(openingPosition, length));
+            Console.WriteLine("Exemplo concluído.");
 
         }
     }
