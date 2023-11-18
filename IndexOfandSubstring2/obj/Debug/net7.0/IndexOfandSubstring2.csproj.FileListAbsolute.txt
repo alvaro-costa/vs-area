@@ -1,0 +1,14 @@
+C:\VSCommunity\IndexOfandSubstring2\bin\Debug\net7.0\IndexOfandSubstring2.exe
+C:\VSCommunity\IndexOfandSubstring2\bin\Debug\net7.0\IndexOfandSubstring2.deps.json
+C:\VSCommunity\IndexOfandSubstring2\bin\Debug\net7.0\IndexOfandSubstring2.runtimeconfig.json
+C:\VSCommunity\IndexOfandSubstring2\bin\Debug\net7.0\IndexOfandSubstring2.dll
+C:\VSCommunity\IndexOfandSubstring2\bin\Debug\net7.0\IndexOfandSubstring2.pdb
+C:\VSCommunity\IndexOfandSubstring2\obj\Debug\net7.0\IndexOfandSubstring2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCommunity\IndexOfandSubstring2\obj\Debug\net7.0\IndexOfandSubstring2.AssemblyInfoInputs.cache
+C:\VSCommunity\IndexOfandSubstring2\obj\Debug\net7.0\IndexOfandSubstring2.AssemblyInfo.cs
+C:\VSCommunity\IndexOfandSubstring2\obj\Debug\net7.0\IndexOfandSubstring2.csproj.CoreCompileInputs.cache
+C:\VSCommunity\IndexOfandSubstring2\obj\Debug\net7.0\IndexOfandSubstring2.dll
+C:\VSCommunity\IndexOfandSubstring2\obj\Debug\net7.0\refint\IndexOfandSubstring2.dll
+C:\VSCommunity\IndexOfandSubstring2\obj\Debug\net7.0\IndexOfandSubstring2.pdb
+C:\VSCommunity\IndexOfandSubstring2\obj\Debug\net7.0\IndexOfandSubstring2.genruntimeconfig.cache
+C:\VSCommunity\IndexOfandSubstring2\obj\Debug\net7.0\ref\IndexOfandSubstring2.dll
