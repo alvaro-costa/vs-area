@@ -1,0 +1,14 @@
+C:\VSCommunity\IndexOfAnyandLastIndexOf\bin\Debug\net7.0\IndexOfAnyandLastIndexOf.exe
+C:\VSCommunity\IndexOfAnyandLastIndexOf\bin\Debug\net7.0\IndexOfAnyandLastIndexOf.deps.json
+C:\VSCommunity\IndexOfAnyandLastIndexOf\bin\Debug\net7.0\IndexOfAnyandLastIndexOf.runtimeconfig.json
+C:\VSCommunity\IndexOfAnyandLastIndexOf\bin\Debug\net7.0\IndexOfAnyandLastIndexOf.dll
+C:\VSCommunity\IndexOfAnyandLastIndexOf\bin\Debug\net7.0\IndexOfAnyandLastIndexOf.pdb
+C:\VSCommunity\IndexOfAnyandLastIndexOf\obj\Debug\net7.0\IndexOfAnyandLastIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCommunity\IndexOfAnyandLastIndexOf\obj\Debug\net7.0\IndexOfAnyandLastIndexOf.AssemblyInfoInputs.cache
+C:\VSCommunity\IndexOfAnyandLastIndexOf\obj\Debug\net7.0\IndexOfAnyandLastIndexOf.AssemblyInfo.cs
+C:\VSCommunity\IndexOfAnyandLastIndexOf\obj\Debug\net7.0\IndexOfAnyandLastIndexOf.csproj.CoreCompileInputs.cache
+C:\VSCommunity\IndexOfAnyandLastIndexOf\obj\Debug\net7.0\IndexOfAnyandLastIndexOf.dll
+C:\VSCommunity\IndexOfAnyandLastIndexOf\obj\Debug\net7.0\refint\IndexOfAnyandLastIndexOf.dll
+C:\VSCommunity\IndexOfAnyandLastIndexOf\obj\Debug\net7.0\IndexOfAnyandLastIndexOf.pdb
+C:\VSCommunity\IndexOfAnyandLastIndexOf\obj\Debug\net7.0\IndexOfAnyandLastIndexOf.genruntimeconfig.cache
+C:\VSCommunity\IndexOfAnyandLastIndexOf\obj\Debug\net7.0\ref\IndexOfAnyandLastIndexOf.dll
