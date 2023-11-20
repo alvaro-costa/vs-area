@@ -1,0 +1,14 @@
+C:\VSCommunity\RemoveandReplace\bin\Debug\net7.0\RemoveandReplace.exe
+C:\VSCommunity\RemoveandReplace\bin\Debug\net7.0\RemoveandReplace.deps.json
+C:\VSCommunity\RemoveandReplace\bin\Debug\net7.0\RemoveandReplace.runtimeconfig.json
+C:\VSCommunity\RemoveandReplace\bin\Debug\net7.0\RemoveandReplace.dll
+C:\VSCommunity\RemoveandReplace\bin\Debug\net7.0\RemoveandReplace.pdb
+C:\VSCommunity\RemoveandReplace\obj\Debug\net7.0\RemoveandReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCommunity\RemoveandReplace\obj\Debug\net7.0\RemoveandReplace.AssemblyInfoInputs.cache
+C:\VSCommunity\RemoveandReplace\obj\Debug\net7.0\RemoveandReplace.AssemblyInfo.cs
+C:\VSCommunity\RemoveandReplace\obj\Debug\net7.0\RemoveandReplace.csproj.CoreCompileInputs.cache
+C:\VSCommunity\RemoveandReplace\obj\Debug\net7.0\RemoveandReplace.dll
+C:\VSCommunity\RemoveandReplace\obj\Debug\net7.0\refint\RemoveandReplace.dll
+C:\VSCommunity\RemoveandReplace\obj\Debug\net7.0\RemoveandReplace.pdb
+C:\VSCommunity\RemoveandReplace\obj\Debug\net7.0\RemoveandReplace.genruntimeconfig.cache
+C:\VSCommunity\RemoveandReplace\obj\Debug\net7.0\ref\RemoveandReplace.dll
