@@ -1,0 +1,14 @@
+C:\VSCommunity\BuscaPet\bin\Debug\net7.0\BuscaPet.exe
+C:\VSCommunity\BuscaPet\bin\Debug\net7.0\BuscaPet.deps.json
+C:\VSCommunity\BuscaPet\bin\Debug\net7.0\BuscaPet.runtimeconfig.json
+C:\VSCommunity\BuscaPet\bin\Debug\net7.0\BuscaPet.dll
+C:\VSCommunity\BuscaPet\bin\Debug\net7.0\BuscaPet.pdb
+C:\VSCommunity\BuscaPet\obj\Debug\net7.0\BuscaPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCommunity\BuscaPet\obj\Debug\net7.0\BuscaPet.AssemblyInfoInputs.cache
+C:\VSCommunity\BuscaPet\obj\Debug\net7.0\BuscaPet.AssemblyInfo.cs
+C:\VSCommunity\BuscaPet\obj\Debug\net7.0\BuscaPet.csproj.CoreCompileInputs.cache
+C:\VSCommunity\BuscaPet\obj\Debug\net7.0\BuscaPet.dll
+C:\VSCommunity\BuscaPet\obj\Debug\net7.0\refint\BuscaPet.dll
+C:\VSCommunity\BuscaPet\obj\Debug\net7.0\BuscaPet.pdb
+C:\VSCommunity\BuscaPet\obj\Debug\net7.0\BuscaPet.genruntimeconfig.cache
+C:\VSCommunity\BuscaPet\obj\Debug\net7.0\ref\BuscaPet.dll
