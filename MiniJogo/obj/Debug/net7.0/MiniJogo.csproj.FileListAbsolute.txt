@@ -1,0 +1,14 @@
+C:\VSCommunity\MiniJogo\bin\Debug\net7.0\MiniJogo.exe
+C:\VSCommunity\MiniJogo\bin\Debug\net7.0\MiniJogo.deps.json
+C:\VSCommunity\MiniJogo\bin\Debug\net7.0\MiniJogo.runtimeconfig.json
+C:\VSCommunity\MiniJogo\bin\Debug\net7.0\MiniJogo.dll
+C:\VSCommunity\MiniJogo\bin\Debug\net7.0\MiniJogo.pdb
+C:\VSCommunity\MiniJogo\obj\Debug\net7.0\MiniJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCommunity\MiniJogo\obj\Debug\net7.0\MiniJogo.AssemblyInfoInputs.cache
+C:\VSCommunity\MiniJogo\obj\Debug\net7.0\MiniJogo.AssemblyInfo.cs
+C:\VSCommunity\MiniJogo\obj\Debug\net7.0\MiniJogo.csproj.CoreCompileInputs.cache
+C:\VSCommunity\MiniJogo\obj\Debug\net7.0\MiniJogo.dll
+C:\VSCommunity\MiniJogo\obj\Debug\net7.0\refint\MiniJogo.dll
+C:\VSCommunity\MiniJogo\obj\Debug\net7.0\MiniJogo.pdb
+C:\VSCommunity\MiniJogo\obj\Debug\net7.0\MiniJogo.genruntimeconfig.cache
+C:\VSCommunity\MiniJogo\obj\Debug\net7.0\ref\MiniJogo.dll
