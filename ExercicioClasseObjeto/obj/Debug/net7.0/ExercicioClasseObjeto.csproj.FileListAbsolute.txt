@@ -1,0 +1,14 @@
+C:\VSCommunity\ExercicioClasseObjeto\bin\Debug\net7.0\ExercicioClasseObjeto.exe
+C:\VSCommunity\ExercicioClasseObjeto\bin\Debug\net7.0\ExercicioClasseObjeto.deps.json
+C:\VSCommunity\ExercicioClasseObjeto\bin\Debug\net7.0\ExercicioClasseObjeto.runtimeconfig.json
+C:\VSCommunity\ExercicioClasseObjeto\bin\Debug\net7.0\ExercicioClasseObjeto.dll
+C:\VSCommunity\ExercicioClasseObjeto\bin\Debug\net7.0\ExercicioClasseObjeto.pdb
+C:\VSCommunity\ExercicioClasseObjeto\obj\Debug\net7.0\ExercicioClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCommunity\ExercicioClasseObjeto\obj\Debug\net7.0\ExercicioClasseObjeto.AssemblyInfoInputs.cache
+C:\VSCommunity\ExercicioClasseObjeto\obj\Debug\net7.0\ExercicioClasseObjeto.AssemblyInfo.cs
+C:\VSCommunity\ExercicioClasseObjeto\obj\Debug\net7.0\ExercicioClasseObjeto.csproj.CoreCompileInputs.cache
+C:\VSCommunity\ExercicioClasseObjeto\obj\Debug\net7.0\ExercicioClasseObjeto.dll
+C:\VSCommunity\ExercicioClasseObjeto\obj\Debug\net7.0\refint\ExercicioClasseObjeto.dll
+C:\VSCommunity\ExercicioClasseObjeto\obj\Debug\net7.0\ExercicioClasseObjeto.pdb
+C:\VSCommunity\ExercicioClasseObjeto\obj\Debug\net7.0\ExercicioClasseObjeto.genruntimeconfig.cache
+C:\VSCommunity\ExercicioClasseObjeto\obj\Debug\net7.0\ref\ExercicioClasseObjeto.dll
